@@ -1,0 +1,6 @@
+vpc_tag_name = "dev_tf_vpc"
+vpc_cidr = "172.31.0.0/16"
+bucket_name = "dev-terraform-s3-bucket-testing-new-today-latest"
+bucket_acl  = "private"
+cloud_env = "dev"
+instance_key_name = "amazon-linux-key"

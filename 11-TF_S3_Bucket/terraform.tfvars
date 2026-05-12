@@ -1,0 +1,5 @@
+vpc_cidr = "172.31.0.0/16"
+vpc_tag_name = "test_vpc_tag"
+cloud_env = "dev"
+bucket_name = "terraform-s3-bucket-testing"
+bucket_acl  = "private"
